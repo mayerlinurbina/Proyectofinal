@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "title": "Nova Papel",
+    "category": "mama",
+    "description": "Toalla Nova para uso diario",
+    "price": 1590,
+    "img": "/assets/nova.png"
+  },
+  {
+    "id": 2,
+    "title": "Pasta Dental",
+    "category": "mama",
+    "description": "Pasta dental para aseo personal",
+    "price": 4990,
+    "img": "/assets/pastaDental.png"
+  },
+  {
+    "id": 3,
+    "title": "Cepillo Dental",
+    "category": "mama",
+    "description": "Cepillo dental para aseo personal",
+    "price": 2590,
+    "img": "/assets/cepilloDental.png"
+  },
+  {
+    "id": 4,
+    "title": "Apositos Cotidian",
+    "category": "mama",
+    "description": "Apositos para post-parto uso diario",
+    "price": 9990,
+    "img": "/assets/cotidian.png"
+  },
+  {
+    "id": 5,
+    "title": "Pantuflas",
+    "category": "mama",
+    "description": "Pantuflas bajada de cama",
+    "price": 2590,
+    "img": "/assets/pantuflas.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Calzones Maternales",
+    "category": "mama",
+    "description": "Calzones para 3 dias de hospitalización",
+    "price": 14990,
+    "img": "/assets/calzones.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Sostenes Maternales ",
+    "category": "mama",
+    "description": "Sostenes para lactancia",
+    "price": 14990,
+    "img": "/assets/sostenes.png"
+  },
+  {
+    "id": 8,
+    "title": "Chalas para ducha",
+    "category": "mama",
+    "description": "Chalas para uso en ducha",
+    "price": 5990,
+    "img": "/assets/chalas.png"
+  },
+  {
+    "id": 9,
+    "title": "Shampoo Dove",
+    "category": "mama",
+    "description": "Shampoo Dove para aseo personal",
+    "price": 4990,
+    "img": "/assets/dove.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Cubiertos",
+    "category": "mama",
+    "description": "Cubiertos de cocina",
+    "price": 2590,
+    "img": "/assets/cubiertos.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Paños",
+    "category": "mama",
+    "description": "Paños para uso diario",
+    "price": 2590,
+    "img": "/assets/panos.png"
+  },
+  {
+    "id": 12,
+    "title": "Papel higienico",
+    "category": "mama",
+    "description": "Papel higienico para aseo personal",
+    "price": 2590,
+    "img": "/assets/papelHigienico.png"
+  },
+  {
+    "id": 13,
+    "title": "Manta",
+    "category": "bebe",
+    "description": "Manta de abrigo",
+    "price": 12990,
+    "img": "/assets/manta.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Pañales de genero",
+    "category": "bebe",
+    "description": "Pañales de algodon",
+    "price": 4990,
+    "img": "/assets/panalesGenero.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Algodon en bolitas",
+    "category": "bebe",
+    "description": "Algodon para aseo personal bebe",
+    "price": 2590,
+    "img": "/assets/algodon.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Ajuar con estampado",
+    "category": "bebe",
+    "description": "Ajuar recien nacido",
+    "price": 5990,
+    "img": "/assets/ajuarEstampado.png"
+  },
+  {
+    "id": 17,
+    "title": "Ajuar colores",
+    "category": "bebe",
+    "description": "Ajuar para recien nacido",
+    "price": 5990,
+    "img": "/assets/ajuar2.png"
+  },
+  {
+    "id": 18,
+    "title": "Ajuar verde",
+    "category": "bebe",
+    "description": "Ajuar verde recien nacido",
+    "price": 5990,
+    "img": "/assets/ajuarVerde.webp"
+  },
+  {
+    "id": 19,
+    "title": "Ajuar blanco",
+    "category": "bebe",
+    "description": "Ajuar blanco recien nacido",
+    "price": 5990,
+    "img": "/assets/body.png"
+  }
+  
+]

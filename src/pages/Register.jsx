@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { useUserContext } from "../context/userContext";
-const Registro = () => {
+const Register = () => {
     const { register, user } = useUserContext()
     const navigate = useNavigate();
 
@@ -101,4 +101,4 @@ const Registro = () => {
     </>
   );
 };
-export default Registro;
+export default Register;

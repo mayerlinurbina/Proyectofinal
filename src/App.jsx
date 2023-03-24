@@ -11,7 +11,7 @@ import Favoritos from './pages/Favoritos';
 import Products from './pages/Products';
 import Perfil from './pages/Perfil';
 import ProductDetail from './pages/ProductDetail';
-import Registro from './pages/Registro';
+import Register from './pages/Register';
 import Nosotros from './pages/Nosotros';
 import Cart from './pages/Cart';
 
@@ -25,7 +25,7 @@ const App = () => {
             <Route path="/carrito" element={<Cart/>} />
             <Route path="/favoritos" element={<Favoritos/>} />
             <Route path="/login" element={<Login/>} /> 
-            <Route path="/register" element={<Registro/>} /> 
+            <Route path="/register" element={<Register/>} /> 
             <Route path="/productos" element={<Products/>} /> 
             <Route path="/contacto" element={<Contacto/>} />
             <Route path="/categoria/:nombreCategoria" element={<Categoria/>} />  

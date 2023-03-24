@@ -11,8 +11,8 @@ export default function Favoritos() {
 
   return (
     <div>
-      <h1>Favoritos</h1>
-      <ul className="img-container">
+      <h1 className="text-center py-4">Favoritos</h1>
+      <div className="card-container">
         {favoritos.map((publicacion) => (
             <Card 
               title={publicacion.title}
@@ -22,7 +22,7 @@ export default function Favoritos() {
               producto={publicacion}
           />
         ))}
-      </ul>
+      </div>
     </div>
   );
 }

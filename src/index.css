@@ -5,16 +5,27 @@
     background-position: center;
     background-repeat: no-repeat;
 }
-.Logo {
-    width: 10%;
-    
+
+.banner-home .imagen-mama {
+    width: 350px;
+    object-fit: cover;
 }
 
+.logo {
+    width: 80px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+/* .custom-navbar{
+    display: flex;
+} */
 .menu-navbar a{
     text-decoration: none;
     padding-left: 1rem ;
     color: #C56666;
     margin-right: 1.5rem;
+    
     
 }
 
@@ -38,3 +49,53 @@ h1{
     color: #C56666;
     
 }
+.container-form{
+    background-color: darkgray;
+    
+    
+}
+form{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 30px;
+    gap: 20px;
+    justify-content: center;
+}    
+
+.card{
+    width: 300px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+}
+
+.card img {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    margin: 0px auto;
+}
+
+h4{
+    font-size: 20px;
+}
+
+.footer-text {
+     color: hotpink;
+}
+
+.enlaces-body{
+    text-align: center;
+}
+
+.enlaces-body a {
+    text-decoration: none;
+    color: hotpink;
+}
+

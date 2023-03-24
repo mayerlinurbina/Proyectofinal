@@ -4,7 +4,7 @@ import { useCartContext } from "../context/carritoContext";
 import { useFavoritosContext } from "../context/favoritoContext";
 import { useUserContext } from "../context/userContext";
 
-export default function Card({ producto, src, title, description, price }) {
+export default function ProductCard({ producto, src, title, description, price }) {
 
   const { agregarAlCarrito } = useCartContext();
   const { addFavoritos, favoritos } = useFavoritosContext();

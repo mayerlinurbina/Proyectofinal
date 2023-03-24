@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import Card from "../components/Card";
+import ProductCard from "../components/ProductCard";
 import { useFavoritosContext } from "../context/favoritoContext"
 
 export default function Favoritos() {
@@ -14,7 +14,7 @@ export default function Favoritos() {
       <h1 className="text-center py-4">Favoritos</h1>
       <div className="card-container">
         {favoritos.map((publicacion) => (
-            <Card 
+            <ProductCard 
               title={publicacion.title}
               description={publicacion.description}
               price={publicacion.price}

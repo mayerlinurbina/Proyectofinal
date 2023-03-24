@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import Card from "../components/Card";
+import ProductCard from "../components/ProductCard";
 import { CarritoContext } from "../context/carritoContext";
 import { useFavoritosContext } from "../context/favoritoContext";
 
@@ -68,7 +68,7 @@ export default function Products() {
             <div className="card-container">
 
                 {publicacionesFiltradas.map((publicacion) => (
-                    <Card
+                    <ProductCard
                         title={publicacion.title}
                         description={publicacion.description}
                         price={publicacion.price}

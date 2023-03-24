@@ -5,29 +5,6 @@ const Contacto = () => {
     return (
         <div className="form-container">
             <h1 className="title-form text-center py-4">Cuentanos ¿en que te podemos ayudar?</h1>
-            {/* <form>
-                <div className="form-group">
-
-                    <label></label>
-                    <input className="input-form" type="text" placeholder="nombre" />
-                </div>
-                <div className="form-group">
-
-                    <label></label>
-                    <input className="input-form" type="text" placeholder="correo" />
-                </div>
-                <div className="form-group">
-
-                    <label></label>
-                    <input className="input-form" type="text" placeholder="asunto" />
-                </div>
-                <div className="form-group">
-
-                    <label></label>
-                    <input className="input-form" type="text" placeholder="mensaje" />
-                </div>
-                <button type="submit">Enviar</button>
-            </form> */}
             <form className="mx-auto" style={{ maxWidth: '600px', textAlign: 'left' }}>
       <div className="form-outline mb-4">
           <label className="mb-2" for="form2Example1">Nombre</label>

@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import Card from "../components/card";
+import Card from "../components/Card";
 import { CarritoContext } from "../context/carritoContext";
 import { useFavoritosContext } from "../context/favoritoContext";
 

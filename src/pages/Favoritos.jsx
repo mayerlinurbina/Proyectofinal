@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import Card from "../components/card";
+import Card from "../components/Card";
 import { useFavoritosContext } from "../context/favoritoContext"
 
 export default function Favoritos() {

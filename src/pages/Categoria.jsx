@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState } from "react";
 import { redirect, useParams } from "react-router-dom";
-import Card from "../components/card";
+import Card from "../components/Card";
 import CarritoProvider, { CarritoContext } from "../context/carritoContext";
 import { useFavoritosContext } from "../context/favoritoContext";
 
